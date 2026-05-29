@@ -31,6 +31,6 @@ My goal is to become a skilled software engineer and contribute to innovative pr
 ## 🤝 Connect With Me
 
 * GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: (https://www.linkedin.com/in/anay-gupta-hrd-ba76b7259/)
 
 ⭐ “Code, Learn, Build, Repeat.”
